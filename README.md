@@ -1,3 +1,6 @@
+This is a fork of a project, that 5 of my friend and I did for apprenticeships in 2024 in my 3rd grade in technical school.
+
+
 # Praktyki2024
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
